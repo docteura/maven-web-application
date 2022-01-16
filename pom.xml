@@ -93,7 +93,6 @@
 		
 	</dependencies>
 	
-http://18.144.173.27:5504/repository/webapp-release/
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
